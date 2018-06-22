@@ -1,4 +1,4 @@
 #! /usr/bin/env python3
-from tkinter import *
-root = Tk()
+import tkinter as tk
+root = tk.Tk()
 root.mainloop()
